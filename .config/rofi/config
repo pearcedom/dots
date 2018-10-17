@@ -1,0 +1,17 @@
+# Dark theme.
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+
+# Light theme.
+#rofi.theme: ~/.cache/wal/colors-rofi-light.rasi
+
+
+rofi.eh: 1
+rofi.line-margin: 18
+rofi.separator-style: solid
+rofi.hide-scrollbar: true
+rofi.lines: 8
+rofi.columns: 1
+rofi.width: 40
+rofi.padding: 600
+rofi.bw: 0
+rofi.auto-select: true

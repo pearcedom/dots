@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/dom/.config/termite'
+let g:netrw_dirhist_2='/home/dom/.config/xfce4/panel'
+let g:netrw_dirhist_3='/home/dom/.config/gtk-3.0'
+let g:netrw_dirhist_4='/home/dom/.config/fish/functions'
+let g:netrw_dirhist_5='/home/dom/.local/share/omf/themes/default'
+let g:netrw_dirhist_6='/home/dom/.local/share/omf/themes'
+let g:netrw_dirhist_7='/home/dom/.local/share/nvim'

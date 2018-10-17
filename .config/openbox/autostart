@@ -1,0 +1,6 @@
+sxhkd &
+compton &
+tint2 &
+pnmixer &
+wal -i ~/Pictures/7hmeuED.jpg
+# ~/.config/polybar/launch-openbox.sh

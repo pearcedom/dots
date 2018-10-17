@@ -1,0 +1,1 @@
+/home/dom/.local/share/omf/themes/edina/fish_prompt.fish
