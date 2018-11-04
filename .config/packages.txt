@@ -1,0 +1,11 @@
+git
+neovim
+obconf obmenu
+git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes
+bspwm
+rofi
+polybar gcc cmake cairolibxcb python2 xcb-proto xcb-util-image xcb-util-wm
+xcb-util-cursor xcb-util-xrm
+compton
+neofetch
+tmux
